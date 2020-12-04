@@ -1,6 +1,6 @@
 # Fast Query Builder
 
-Fast Query Builder is a database PDO/MYSQL Builder thats make you easy to work wit the querying the database
+Fast Query Builder is a database PDO/MYSQL Builder thats make you easy to work with querying the database
 
   - Fast and Smooth
   - No more sphagetti code
@@ -16,7 +16,7 @@ Fast Query Builder is a database PDO/MYSQL Builder thats make you easy to work w
 
   - Fast Query Builder
   - Many features
-  - Eeasy to use Like (SELECT,WHERE,etc.)
+  - Easy to use Like (SELECT,WHERE,etc.)
   - Safe from sql injection attacks (FQB uses Prepared statement / PDO for building queries)
 
 # How to Use 
