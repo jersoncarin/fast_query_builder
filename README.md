@@ -2,9 +2,9 @@
 
 Fast Query Builder is a database PDO/MYSQL Builder thats make you easy to work wit the querying the database
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
+  - Fast and Smooth
+  - No more sphagetti code
+  - Easy to query
 
 # Requirements
 
