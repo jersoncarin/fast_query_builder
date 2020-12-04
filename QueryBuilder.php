@@ -10,7 +10,7 @@
  // Include the query builder exception
  require_once dirname(__FILE__) . '/Exception/QueryBuilderException.php';
 
- class QueryBuilder {
+ class FastQueryBuilder {
 
     /**
      * $this->connection (PDO/MYSQL)
